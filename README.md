@@ -1,16 +1,13 @@
-### Hi there 👋
+- 👋🏻 Hi, I'm Dimas Alva Rizki
+- 👁️ I'm interested in Front-End Development
+- 🌴 I'm currently learning Front-End Web Development Learning Path
+- 🏩 I'm looking to collaborate on the Movie Catalogue project
+- 📫 How to reach me on 
+<a href="https://www.instagram.com/dimasalvarizk/" target="_blank">Instagram</a>, and
+<a href="https://www.linkedin.com/in/dimas-alva-rizki-17a433327/" target="_blank">LinkedIn</a>
 
-<!--
-**dimasalvarizk/dimasalvarizk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+dimasalvarizki/dimasalvarizki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
