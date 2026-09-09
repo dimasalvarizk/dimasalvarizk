@@ -58,13 +58,11 @@
 
 ---
 
-## GitHub Analytics
+### GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimasalvarizk&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasalvarizk&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimasalvarizk&show_icons=true&theme=transparent&hide_border=true)](https://github.com/dimasalvarizk)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimasalvarizk&theme=transparent&hide_border=true)](https://github.com/dimasalvarizk)
 
 <!---
 dimasalvarizki/dimasalvarizki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
