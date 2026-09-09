@@ -58,7 +58,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dimasalvarizk&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
