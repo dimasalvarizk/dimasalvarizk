@@ -61,9 +61,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimasalvarizki&show_icons=true&theme=radical&hide_border=true" alt="Dimas's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasalvarizki&theme=radical&hide_border=true" alt="Dimas's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dimasalvarizk&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasalvarizk&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <!---
