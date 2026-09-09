@@ -1,6 +1,9 @@
-<h1 align="center">Hi there, I'm Dimas Alva Rizki 👋🏻</h1>
+<div align="center">
+  <!-- Ganti URL di bawah dengan link gambar banner buatan Anda setelah di-upload ke repo -->
+  <img src="https://via.placeholder.com/1000x250/0f172a/ffffff?text=Banner+Dimas+Alva+Rizki+(Upload+Gambar+Anda)" alt="Dimas Alva Rizki Banner" width="100%" style="border-radius: 15px;" />
+</div>
 
-<h3 align="center">Full-Stack Web Developer | Informatics Engineering Graduate</h3>
+<br/>
 
 <div align="center">
   <a href="mailto:alvarizkidimas@gmail.com">
