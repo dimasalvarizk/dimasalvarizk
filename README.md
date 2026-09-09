@@ -58,11 +58,23 @@
 
 ---
 
-### GitHub Analytics
+## 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimasalvarizk&show_icons=true&theme=transparent&hide_border=true)](https://github.com/dimasalvarizk)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimasalvarizk&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dimasalvarizk&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dimasalvarizk&theme=transparent&hide_border=true)](https://github.com/dimasalvarizk)
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dimasalvarizk/dimasalvarizk/output/galaga-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dimasalvarizk/dimasalvarizk/output/galaga-contribution-graph.svg">
+    <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/dimasalvarizk/dimasalvarizk/output/galaga-contribution-graph.svg">
+  </picture>
+</div>
 
 <!---
 dimasalvarizki/dimasalvarizki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
